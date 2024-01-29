@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1091211711972",
+    "project_id": "rapid-project-b0453",
+    "storage_bucket": "rapid-project-b0453.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091211711972:android:809d17f2c19f3e1a5723f1",
+        "android_client_info": {
+          "package_name": "com.example.footwear_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADKMxDkm8tEsP_ru2g6-lGXflnJ8CeXP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091211711972:android:732d8274e2bd81e85723f1",
+        "android_client_info": {
+          "package_name": "com.example.footwear_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADKMxDkm8tEsP_ru2g6-lGXflnJ8CeXP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
